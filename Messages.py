@@ -1,12 +1,12 @@
 m_start = "⚡️ SELAMAT DATANG ⚡️\n\n🇮🇩 Semoga Dapat teman atau jodoh\n\n🇳🇿 I hope you can make a friend or a partner\n\n💬 untuk mencari teman obrolan gunakan button New Chat"
 
 m_is_not_free_users = (
-    "🙆🏿‍♀️Maaf Anda tidak berada dalam obrolan\n\n💌TEKAN TOMBOL 🇮🇩NEW CHAT🇮🇩"
+    "Looking for a partner..."
 )
 
 m_is_connect = "✅ Anda sudah berada di dalam obrolan, silahkan kirim chat anda\n\n✅ You are already in the chat, please send your chat"
 
-m_play_again = "Apakah Anda Ingin mengobrol dengan orang lain?\n\nDo you want to chat with other people?"
+m_play_again = "Your partner has stopped tje dialog\n\nDo you want to chat with other people?"
 
 m_is_not_user_name = "❌ Maaf, bot kami hanya dapat berkomunikasi jika Anda memiliki nama pengguna\n\n❌ Sorry, our bot can only communicate if you have a username"
 
